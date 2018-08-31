@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Microsoft Visio、SVG Export により生成 図面1.svg Page-1 -->
+<!-- Microsoft Visio、SVG Export により生成 図面2.svg Page-2 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
 		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
@@ -29,8 +30,8 @@
 			<use xlink:href="#lend1" transform="scale(-4.36,-4.36) "/>
 		</marker>
 	</defs>
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-		<title>ページ - 1</title>
+	<g v:mID="4" v:index="2" v:groupContext="foregroundPage">
+		<title>ページ - 2</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="コネクタ" v:index="0"/>
@@ -129,6 +130,10 @@
 		<g id="shape16-60" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(328.595,-706.051)">
 			<title>動的コネクタ.16</title>
 			<path d="M-7.09 841.89 L3.54 841.89 L3.54 792.28 L-7.09 792.28" class="st3"/>
+		</g>
+		<g id="shape18-65" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(314.422,-507.625)">
+			<title>動的コネクタ.18</title>
+			<path d="M7.09 841.89 L17.72 841.89 L17.72 792.28 L7.09 792.28" class="st3"/>
 		</g>
 	</g>
 </svg>
